@@ -19,7 +19,6 @@ A website thate utilizes Nasa's public API to display some fun data.
 
 
 - Landing page displays the daily picure or videos.
-- Landing page displays the daily picure or videos.
 - Find near earth obecjts with in a given date, details about the objects as well.
 - Weather on mars check what the weather in mars is like.
 
